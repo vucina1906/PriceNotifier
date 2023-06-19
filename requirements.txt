@@ -1,0 +1,6 @@
+Flask
+requests
+APScheduler
+beautifulsoup4
+secure-smtplib
+#-e .
