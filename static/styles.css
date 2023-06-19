@@ -1,0 +1,96 @@
+body {
+    background-color: #c2b9b9dc;
+    position: relative; /* Add position: relative to the body */
+}
+
+#Name {
+    color: #1c6412;
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+    font-weight: bold;
+    position: fixed;
+    top: 160px;
+    left: 770px;
+}
+
+#URL {
+    color: #0a1b08;
+    font-family: 'Great Vibes', cursive;
+    font-size: 28px;
+    font-weight: bold;
+    position: fixed;
+    top: 320px;
+    left: 370px;
+}
+
+
+
+#urlInput {
+    position: fixed; 
+    top: 320px;
+    left: 970px;
+    width: 500px; 
+}
+
+#Price {
+    color: #0a1b08;
+    font-family: 'Great Vibes', cursive;
+    font-size: 28px;
+    font-weight: bold;
+    position: fixed;
+    top: 470px;
+    left: 370px;
+}
+
+#priceInput {
+    position: fixed; 
+    top: 470px;
+    right: 430px;
+    width: 200px;
+}
+
+#Frequency {
+    color: #0a1b08;
+    font-family: 'Great Vibes', cursive;
+    font-size: 28px;
+    font-weight: bold;
+    position: fixed;
+    top: 620px;
+    left: 370px;
+}
+
+#frequencyInput {
+    position: fixed; 
+    top: 620px;
+    right: 430px;
+    width: 200px;
+}
+
+#submitBtn {
+    position: fixed;
+    bottom:120px;
+    right: 830px;
+    background-color: #1c6412;
+    border-color: black;
+    height: 58px;
+    width: 160px;
+    border-radius: 15px;
+    font-family: 'Great Vibes', cursive;
+    color: #0a1b08;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 2px;
+}
+#submitBtn:hover {
+    background-color: #26b114;
+}
+
+.notification {
+    background-color: #1c6412;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    position: fixed;
+    bottom: 30px;
+    left: 670px;
+}
